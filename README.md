@@ -1,0 +1,1 @@
+This is an restful api written in go language,use an array instead of database for performing crus operation
